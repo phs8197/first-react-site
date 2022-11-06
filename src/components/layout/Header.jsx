@@ -6,7 +6,7 @@ function Header(props) {
       <div className="header__inner">
         <div className="header__logo">
           <a href="/">
-            web <em>site</em>
+            web 안녕<em>site</em>
           </a>
         </div>
         <nav className="header__menu">
