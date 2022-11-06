@@ -1,10 +1,13 @@
 import React from "react";
 
-function ImgText() {
+function ImgText(props) {
   return (
-    <section id="imgTextType" className="imgText__wrapsection gray">
+    <section
+      id="imgTextType"
+      className={`imgText__wrap ${props.attr[0]} ${props.attr[1]} ${props.attr[3]}`}
+    >
       <h2 className="blind">유용한 사이트 살펴보기</h2>
-      <div className="imgText__inner container ">
+      <div className={`imgText__inner ${props.attr[2]}`}>
         <div className="imgText__txt">
           <span>이미지 텍스트 유형01</span>
           <h3>유용한 사이트 살펴보기</h3>

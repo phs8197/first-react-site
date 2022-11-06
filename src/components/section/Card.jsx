@@ -1,11 +1,14 @@
 import React from "react";
 
-function Card() {
+function Card(props) {
   return (
-    <section id="cardType" className="card__wrap section">
+    <section
+      id="cardType"
+      className={`card__wrap ${props.attr[0]} ${props.attr[1]}`}
+    >
       <h2>프론트앤드 강의 💻</h2>
       <p>웹 디자이너, 웹 퍼블리셔, 프론트앤드를 위한 강의 리스트 입니다.</p>
-      <div className="card__inner container">
+      <div className={`card__inner ${props.attr[2]}`}>
         <article className="card">
           <figure className="card__header">
             <img src="assets/img/card_bg01_01.jpg" alt="웹표준 사이트 만들기" />
