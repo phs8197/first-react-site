@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/first-react-site/static/css/main.91156e25.css",
+    "main.js": "/first-react-site/static/js/main.588f0815.js",
+    "static/media/slider_bg01_01.jpg": "/first-react-site/static/media/slider_bg01_01.1792b05b0a4c27de6399.jpg",
+    "static/media/banner_bg01.jpg": "/first-react-site/static/media/banner_bg01.35a8410c056d5206c312.jpg",
+    "static/media/imgText_bg02.jpg": "/first-react-site/static/media/imgText_bg02.ff3c92fadfd1cc4fc4dc.jpg",
+    "static/media/imgText_bg01.jpg": "/first-react-site/static/media/imgText_bg01.8f591ac27667e138d1f9.jpg",
+    "static/media/image_bg01.jpg": "/first-react-site/static/media/image_bg01.de12a23e97c2e2242128.jpg",
+    "static/media/image_bg02.jpg": "/first-react-site/static/media/image_bg02.7bab201bd991437c0be8.jpg",
+    "static/media/text_icon.svg": "/first-react-site/static/media/text_icon.d6af9025d242a20d2a4b.svg",
+    "static/media/slider_icon.svg": "/first-react-site/static/media/slider_icon.4468373632ec24056240.svg",
+    "index.html": "/first-react-site/index.html",
+    "main.91156e25.css.map": "/first-react-site/static/css/main.91156e25.css.map",
+    "main.588f0815.js.map": "/first-react-site/static/js/main.588f0815.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91156e25.css",
+    "static/js/main.588f0815.js"
+  ]
+}
